@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+	int i,n;
+	printf("enter a even number of n :");
+	scanf("%d",&n);
+{  
+    if(i%2==0)
+    {
+    
+		printf("%d\n",i);
+	}
+}
+return 0;
