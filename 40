@@ -1,0 +1,11 @@
+echo"enter the year"
+read year
+a='expr $y%4'
+b='expr $y%100'
+c='expr $y%400'
+if [$a-eq0-a$b-ne--0$-eq 0]
+then
+  echo"leap year"
+else
+  echo"not a leap year"
+fi
